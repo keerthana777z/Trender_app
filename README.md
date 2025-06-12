@@ -1,7 +1,7 @@
 
-## myntra hackerramp 24
+## Myntra hackerramp 24
 ### use case: user engagement on platform
-for an insight on the idea take a look at the [ppt](https://github.com/3drawers/trender_demo/blob/main/drawers.pptx)
+for an insight on the idea take a look at the  [ppt] (https://github.com/3drawers/trender_demo/blob/main/drawers.pptx)
 <hr>
 <img width="417" alt="Screenshot 2025-06-12 at 9 23 07 PM" src="https://github.com/user-attachments/assets/5a668547-e796-417a-841c-9b5670011fcb" />
 
